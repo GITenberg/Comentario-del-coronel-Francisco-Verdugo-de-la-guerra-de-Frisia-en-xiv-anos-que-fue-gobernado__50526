@@ -1,10 +1,16 @@
 _repo: Comentario-del-coronel-Francisco-Verdugo-de-la-guerra-de-Frisia-en-xiv-anos-que-fue-gobernado__50526
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50526-h/images/cover.jpg
 creator:
   author:
     agent_name: Verdugo, Francisco
     gutenberg_agent_id: '45958'
     url: http://www.gutenberg.org/2009/agents/45958
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50526#Comentario-del-coronel-Francisco-Verdugo-de-la-guerra-de-Frisia-en-xiv-anos-que-fue-gobernado_
 gutenberg_issued: '2015-11-22'
 gutenberg_type: Text
 identifiers:
